@@ -1,0 +1,22 @@
+{
+  "name": "json-update",
+  "version": "1.0.0",
+  "description": "Json update",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "author": "satinder",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}

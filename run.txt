@@ -1,0 +1,2 @@
+run server.js by node server.js in Server folder
+run index.html by localhost
